@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cpaijes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Mi nombre es Camila Paijés
+- Soy estudiante de la licenciatura en finanzas
+- Ahora decidí aprender sobre desarrollo web, en coderhouse. 
+- Me gusta la tecnologia y mantenerme en constante aprendizaje sobre ella.
+- Pueden contactarme a través de mi mail cpaijes@gmail.com
 
 <!---
 cpaijes/cpaijes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
